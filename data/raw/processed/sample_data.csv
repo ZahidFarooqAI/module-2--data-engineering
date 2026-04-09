@@ -1,0 +1,21 @@
+order_id,customer_id,customer_name,product,category,price,quantity,order_date,city,country,payment_method
+1001,C001,Ali Khan,Laptop,Electronics,1200.00,1,2024-01-05,Islamabad,Pakistan,Credit Card
+1002,C002,Sara Ahmed,Smartphone,Electronics,800.00,1,2024-01-07,Lahore,Pakistan,Debit Card
+1003,C003,Ahmed Raza,Headphones,Electronics,150.00,2,2024-01-10,Karachi,Pakistan,Cash
+1004,C004,Ayesha Malik,Office Chair,Furniture,220.00,1,2024-01-12,Rawalpindi,Pakistan,Credit Card
+1005,C005,Hassan Ali,Desk,Furniture,350.00,1,2024-01-15,Faisalabad,Pakistan,Bank Transfer
+1006,C006,Zainab Noor,Notebook,Stationery,5.00,10,2024-01-18,Multan,Pakistan,Cash
+1007,C007,Usman Tariq,Pen Pack,Stationery,12.00,5,2024-01-20,Peshawar,Pakistan,Debit Card
+1008,C008,Maryam Shah,Monitor,Electronics,300.00,2,2024-01-22,Islamabad,Pakistan,Credit Card
+1009,C009,Bilal Hussain,Printer,Electronics,250.00,1,2024-01-25,Lahore,Pakistan,Bank Transfer
+1010,C010,Hira Siddiqui,Bookshelf,Furniture,180.00,1,2024-01-28,Karachi,Pakistan,Cash
+1011,C011,Omar Farooq,Tablet,Electronics,450.00,1,2024-02-02,Islamabad,Pakistan,Credit Card
+1012,C012,Sana Khan,Wireless Mouse,Electronics,25.00,3,2024-02-05,Rawalpindi,Pakistan,Debit Card
+1013,C013,Imran Sheikh,Keyboard,Electronics,45.00,2,2024-02-08,Lahore,Pakistan,Cash
+1014,C014,Noor Fatima,Whiteboard,Stationery,60.00,1,2024-02-10,Multan,Pakistan,Bank Transfer
+1015,C015,Faizan Ahmed,Study Table,Furniture,275.00,1,2024-02-14,Faisalabad,Pakistan,Credit Card
+1016,C016,Laiba Hassan,Backpack,Accessories,40.00,2,2024-02-18,Karachi,Pakistan,Debit Card
+1017,C017,Saad Qureshi,Desk Lamp,Furniture,35.00,2,2024-02-20,Islamabad,Pakistan,Cash
+1018,C018,Mehwish Ali,External Hard Drive,Electronics,120.00,1,2024-02-22,Rawalpindi,Pakistan,Bank Transfer
+1019,C019,Adnan Iqbal,Router,Electronics,90.00,1,2024-02-25,Lahore,Pakistan,Credit Card
+1020,C020,Rabia Akhtar,Calculator,Stationery,18.00,3,2024-02-28,Peshawar,Pakistan,Debit Card

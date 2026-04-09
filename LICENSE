@@ -1,0 +1,8 @@
+
+---
+
+# ▶️ How to Run the Project
+
+### Step 1: Build and Start Containers
+```bash
+docker compose up --build

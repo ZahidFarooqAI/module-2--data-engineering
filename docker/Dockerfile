@@ -1,0 +1,12 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+COPY ingestion/requirements.txt .
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY ingestion/ ingestion/
+COPY data/ data/
+
+CMD ["python", "ingestion/ingest_data.py"]
