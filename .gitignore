@@ -8,3 +8,8 @@ __pycache__/
 .DS_Store
 .vscode/
 postgres_data/
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars

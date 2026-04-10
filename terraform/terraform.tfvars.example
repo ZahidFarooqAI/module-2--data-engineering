@@ -1,0 +1,6 @@
+# Set to false if you only want to start postgres + pgadmin
+# and run ingestion manually.
+run_ingestion_on_apply = true
+
+# Optional override. If not set via Makefile, use your repo folder name.
+# compose_project_name = "module-2--data-engineering"
